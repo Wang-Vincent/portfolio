@@ -5,10 +5,9 @@ import "./vwnavbar.style.css";
 
 const VWNavbar = () => {
   return (
-    <>
+    <div>
       <Navbar
         fixed="top"
-        collapseOnSelect
         expand="md"
         variant="dark"
         className="animate-navbar nav-color justify-content-between"
@@ -22,12 +21,11 @@ const VWNavbar = () => {
             <Nav.Link href="#skills">Skills</Nav.Link>
             <Nav.Link href="#experience">Experience</Nav.Link>
             <Nav.Link href="#projects">Projects</Nav.Link>
-            <Nav.Link href="#resume">Resume</Nav.Link>
             <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-    </>
+    </div>
   );
 };
 

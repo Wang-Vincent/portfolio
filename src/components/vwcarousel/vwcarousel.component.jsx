@@ -4,16 +4,15 @@ import "./vwcarousel.style.css";
 import bg1 from "../../assets/img/carousel/bg1.webp";
 import bg2 from "../../assets/img/carousel/bg2.webp";
 import bg3 from "../../assets/img/carousel/bg3.webp";
-import VWScrollDown from "../vwscrolldown/vwscrolldown.component"
 
 const VWCarousel = () => {
   return (
     <div id ="home">
       <Carousel
         controls={false}
-        indicators
-        interval={2688}
-        pauseOnHover={false}
+        indicators={true}
+        interval={6666}
+        pauseonhover={"false"}
       >
         <Carousel.Item>
           <img className="d-block w-100 customized-carousel" src={bg1} alt="First slide" />
@@ -25,7 +24,6 @@ const VWCarousel = () => {
           <img className="d-block w-100 customized-carousel" src={bg3} alt="Third slide" />
         </Carousel.Item>
       </Carousel>
-      <VWScrollDown />
     </div>
   );
 };

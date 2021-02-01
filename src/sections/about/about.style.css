@@ -1,0 +1,22 @@
+
+
+  .about {
+    background-color: transparent;
+    font-size: 1.1em;
+    margin-top: 12em;
+  }
+  
+  .profile {
+    max-width: 26em;
+    margin-right: 6em;
+  }
+  
+  .my-details {
+    background-color: rgba(255, 255, 255, 0.747);
+    margin-left: -2em;
+  }
+
+  #about_content {
+    padding: 2em;
+    font-size: larger;
+  }

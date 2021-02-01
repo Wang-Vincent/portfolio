@@ -1,4 +1,5 @@
 .customized-carousel {
     height: 100vh;
     object-fit: cover;
+    margin-bottom: 1em;
 }

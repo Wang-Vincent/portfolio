@@ -8,21 +8,20 @@ const TitleMsg = styled.h1`
   width: 100%;
   top: 28rem;
   z-index: 1;
-  margin-top: -125px;
+  margin-top: -128px;
   text-align: center;
   strong {
-    font-size: 1.25em;
+    font-size: 1.26em;
   }
   div {
-    color: ${props => props.theme.textColor};
-    text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
+    color: #111111;
     font-weight: 100;
-    letter-spacing: 7px;
+    letter-spacing: 6px;
     .main {
-      font-size: 50px;
+      font-size: 60px;
     }
     .subtitle {
-      font-size: 27px;
+      font-size: 28px;
       letter-spacing: 2px;
     }
   }
@@ -45,7 +44,7 @@ const VWTitleMsg = () => {
           <div className="subtitle">
             <Typewriter
               options={{
-                strings: ["Computing Student.", "Developer.", "Programmer.", "Gamer.", "Music Lover."],
+                strings: ["Computing Student.", "Developer.", "Designer.", "Gamer.", "badminton Lover.", "Kareoke enthusiast."],
                 autoStart: true,
                 loop: true,
                 delay: 66,
