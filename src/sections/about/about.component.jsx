@@ -25,7 +25,7 @@ const About = () => {
                 <br />
                 <br />
                 My technical skills include Python, HTML, CSS, JavaScript, React.js,
-                Node.js, SQL and MongoDB
+                Node.js, SQL and MongoDB.
                 <br />
                 <br />
                 My non-technical skills include UX design, product management, business analysis, and  system design.
