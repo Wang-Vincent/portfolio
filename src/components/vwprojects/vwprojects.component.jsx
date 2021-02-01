@@ -30,7 +30,7 @@ const Projects = () => {
                 reading/writing the modified records on a txt file.
               </ListGroupItem>
               <ListGroupItem>
-                <strong>tech Used: </strong> Python
+                <strong>Tech Used: </strong> Python
               </ListGroupItem>
               <ListGroupItem>
                 <strong>Completion Date: </strong> November 2020
@@ -58,7 +58,7 @@ const Projects = () => {
                 database backend.
               </ListGroupItem>
               <ListGroupItem>
-                <strong>tech Used: </strong> JavaScript, Node.js, MongoDB and
+                <strong>Tech Used: </strong> JavaScript, Node.js, MongoDB and
                 Nodemon
               </ListGroupItem>
               <ListGroupItem>
@@ -93,7 +93,7 @@ const Projects = () => {
                 for detailed rules.
               </ListGroupItem>
               <ListGroupItem>
-                <strong>tech Used: </strong> Python
+                <strong>Tech Used: </strong> Python
               </ListGroupItem>
               <ListGroupItem>
                 <strong>Completion Date: </strong> December 2020
@@ -121,7 +121,7 @@ const Projects = () => {
                 UX design of order predictions and shortage warning system.
               </ListGroupItem>
               <ListGroupItem>
-                <strong>tool Used: </strong> Axure RP and Tencent Agile Development Platform (TAPD)
+                <strong>Tool Used: </strong> Axure RP and Tencent Agile Development Platform (TAPD)
               </ListGroupItem>
               <ListGroupItem>
                 <strong>Participation Date: </strong> 2018

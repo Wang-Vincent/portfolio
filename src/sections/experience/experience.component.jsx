@@ -39,7 +39,7 @@ const Experience = () => {
                       </li>
                       <li><strong>Designed</strong> demo prototypes with Axure RP or Balsimiq Mockups to present UX of trading work flow, commodity listings, and other functions.
                       </li>
-                      <li><strong>Cooperated</strong> with testing team in acceptance testings After iterations were launched to ensure that the required functions operate correctly in the production environment. 
+                      <li><strong>Cooperated</strong> with testing team in gray-box testings After iterations were launched to ensure that the required functions operate correctly in the production environment. 
                       </li>
 
                     </ul>
