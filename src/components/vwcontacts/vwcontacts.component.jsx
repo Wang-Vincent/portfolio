@@ -4,6 +4,7 @@ import Button from "react-bootstrap/Button";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import "./vwcontacts.styles.css";
+import Resume from "../../assets/ResumeVincentWang.pdf"
 
 const ContactForm = () => {
   return (
@@ -36,7 +37,7 @@ const ContactForm = () => {
             </div>
             <div className="m-2">
               <a
-                href="https://www.facebook.com/"
+                href={Resume}
                 target="_blank"
                 rel="noopener noreferrer"
               >

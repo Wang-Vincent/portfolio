@@ -4,6 +4,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
+import Resume from "../../assets/ResumeVincentWang.pdf"
 
 const About = () => {
   return (
@@ -69,7 +70,7 @@ const About = () => {
                   </div>
                   <div className="m-2">
                     <a
-                      href="https://www.facebook.com/"
+                      href={Resume}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
