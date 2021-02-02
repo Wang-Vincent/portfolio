@@ -44,7 +44,7 @@ const VWTitleMsg = () => {
           <div className="subtitle">
             <Typewriter
               options={{
-                strings: ["Computing Student.", "Developer.", "Designer.", "Gamer.", "badminton Lover.", "Kareoke enthusiast."],
+                strings: ["Computing Student.", "Developer.", "Designer.", "Gamer.", "badminton Lover.", "Kar啊oke enthusiast."],
                 autoStart: true,
                 loop: true,
                 delay: 66,

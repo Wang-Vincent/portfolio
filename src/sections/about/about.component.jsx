@@ -40,8 +40,6 @@ const About = () => {
                 operation on day 1.
                 <br />
                 <br />
-                In my spare time, I like badminton, gaming and Kareoke!
-                <br />
                 <br /> Nice to meet you!
                 <br />
                 <br />
