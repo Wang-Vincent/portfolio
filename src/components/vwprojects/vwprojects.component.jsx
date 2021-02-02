@@ -124,7 +124,7 @@ const Projects = () => {
                 <strong>Tool Used: </strong> Axure RP and Tencent Agile Development Platform (TAPD)
               </ListGroupItem>
               <ListGroupItem>
-                <strong>Participation Date: </strong> 2018
+                <strong>Participation Time: </strong> 2017 - 2018
               </ListGroupItem>
             </ListGroup>
           </Card.Body>
